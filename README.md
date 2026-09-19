@@ -1,4 +1,4 @@
-# 📊 Simulador de Investimentos e Alocação de Portfólio — Excel
+# 📊 Simulador de Investimentos — Excel
 
 ## Sobre o projeto
 
